@@ -1,6 +1,6 @@
 Blend 綜合咖啡豆
- ├─ CHRISTMAS 聖誕綜合
- ├─ GRAVITAS BLEND 格拉維塔綜合
+ ├─ CHRISTMAS 聖誕綜合<br />
+ ├─ GRAVITAS BLEND 格拉維塔綜合<br>
  ├─ PANTHEON BLEND 派西昂綜合
  ├─ PARADEISI BLEND 帕拉迪西綜合
  └─ Princi BLEND 焙意之綜合
