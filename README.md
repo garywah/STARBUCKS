@@ -1,9 +1,12 @@
 Blend 綜合咖啡豆<br>
+ ├─ Core 核心系列<br>
  ├─ CHRISTMAS 聖誕綜合<br>
  ├─ GRAVITAS BLEND 格拉維塔綜合<br>
  ├─ PANTHEON BLEND 派西昂綜合<br>
  ├─ PARADEISI BLEND 帕拉迪西綜合<br>
- └─ Princi BLEND 焙意之綜合<br>
+ ├─ Princi BLEND 焙意之綜合<br>
+ ├─ Season 季節系列<br>
+ └─ SINGLE-ORIGIN 單一產地<br>
 <br>
 亞洲及太平洋地區<br>
  ├─ CHINA 中國<br>
@@ -26,6 +29,7 @@ Blend 綜合咖啡豆<br>
  ├─ GUATEMALA 危地馬拉<br>
  ├─ JAMAICA 牙買加<br>
  ├─ NICARAGUA 尼加拉瓜<br>
+ ├─ PANAMA 巴拿馬<br>
  └─ PERÚ 秘魯<br>
 <br>
 非洲<br>
