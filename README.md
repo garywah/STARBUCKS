@@ -1,7 +1,9 @@
 Blend 綜合咖啡豆<br>
+ ├─ ANNIVERSARY 週年紀念<br>
  ├─ Core 核心系列<br>
  ├─ CHRISTMAS 聖誕綜合<br>
  ├─ GRAVITAS BLEND 格拉維塔綜合<br>
+ ├─ Other 其他綜合系列<br>
  ├─ PANTHEON BLEND 派西昂綜合<br>
  ├─ PARADEISI BLEND 帕拉迪西綜合<br>
  ├─ Princi BLEND 焙意之綜合<br>
@@ -14,7 +16,7 @@ Blend 綜合咖啡豆<br>
  ├─ EAST TIMOR 東帝汶<br>
  ├─ Hawaii 夏威夷<br>
  ├─ PAPUA NEW GUINEA 巴布亞新畿內亞<br>
- ├─ Sulawesi 蘇拉威西島<br>
+ ├─ Sulawesi 蘇拉維西<br>
  ├─ Sumatra 蘇門答臘<br>
  └─ VIETNAM 越南<br>
 <br>
@@ -27,12 +29,15 @@ Blend 綜合咖啡豆<br>
  ├─ EL SALVADOR 薩爾瓦多<br>
  ├─ GALÁPAGOS 加拉帕戈斯<br>
  ├─ GUATEMALA 危地馬拉<br>
+ ├─ HONDURAS 洪都拉斯<br>
  ├─ JAMAICA 牙買加<br>
  ├─ NICARAGUA 尼加拉瓜<br>
  ├─ PANAMA 巴拿馬<br>
  └─ PERÚ 秘魯<br>
 <br>
 非洲<br>
+ ├─ BURUNDI 布隆迪<br>
+ ├─ CONGO 剛果民主共和國<br>
  ├─ ETHIOPIA 埃塞俄比亞<br>
  ├─ KENYA 肯雅<br>
  ├─ RWANDA 盧旺達<br>
