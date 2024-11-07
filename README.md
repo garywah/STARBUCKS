@@ -7,18 +7,20 @@ Blend 綜合咖啡豆<br>
  ├─ PANTHEON BLEND 派西昂綜合<br>
  ├─ PARADEISI BLEND 帕拉迪西綜合<br>
  ├─ Princi BLEND 焙意之綜合<br>
+ ├─ ROASTERY 烘焙工坊微批次<br>
  ├─ Season 季節系列<br>
  └─ SINGLE-ORIGIN 單一產地<br>
 <br>
 亞洲及太平洋地區<br>
  ├─ CHINA 中國<br>
- ├─ Bali 峇里<br>
+ ├─ Bali 峇厘島<br>
  ├─ EAST TIMOR 東帝汶<br>
  ├─ Hawaii 夏威夷<br>
  ├─ PAPUA NEW GUINEA 巴布亞新畿內亞<br>
  ├─ Sulawesi 蘇拉維西<br>
  ├─ Sumatra 蘇門答臘<br>
- └─ VIETNAM 越南<br>
+ ├─ VIETNAM 越南<br>
+ └─ West Java 西爪哇<br>
 <br>
 拉丁美洲<br>
  ├─ BOLIVIA 玻利維亞<br>
@@ -42,4 +44,5 @@ Blend 綜合咖啡豆<br>
  ├─ KENYA 肯雅<br>
  ├─ RWANDA 盧旺達<br>
  ├─ TANZANIA 坦桑尼亞<br>
- └─ UGANDA 烏干達<br>
+ ├─ UGANDA 烏干達<br>
+ └─ ZAMBIA 贊比亞<br>
