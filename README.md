@@ -16,6 +16,7 @@ Blend 綜合咖啡豆<br>
  ├─ Bali 峇厘島<br>
  ├─ EAST TIMOR 東帝汶<br>
  ├─ Hawaii 夏威夷<br>
+ ├─ Indonesia 印度尼西亞<br>
  ├─ PAPUA NEW GUINEA 巴布亞新畿內亞<br>
  ├─ Sulawesi 蘇拉維西<br>
  ├─ Sumatra 蘇門答臘<br>
